@@ -1,3 +1,6 @@
+// Manage the inventory of items in the warehouse, allowing usersvto add, remove, update,search, and display items in the inventory.
+
+
 import java.util.*;
 
 class Inventory {
