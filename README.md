@@ -10,4 +10,4 @@ sample output :
 5. Search item by name
 6. Display all items
 7. Exit
-Choose an option: Here we need to select a number between 1 to 7.
+Choose an option: Here we need to select a number between 1 to 7
